@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: blog-back-php
+    env: docker
+    repo: https://github.com/YOUR_USERNAME/php-backend
+    branch: main
+    plan: free
+    dockerfilePath: Dockerfile

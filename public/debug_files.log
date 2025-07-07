@@ -1,0 +1,13 @@
+Array
+(
+    [photo] => Array
+        (
+            [name] => prince1.png
+            [full_path] => prince1.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php3DD9.tmp
+            [error] => 0
+            [size] => 380178
+        )
+
+)
